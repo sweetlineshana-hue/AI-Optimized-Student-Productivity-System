@@ -6,7 +6,8 @@ This Proof-of-Concept (PoC) demonstrates a system that automatically handles adm
 ---
 ## 🎯 Key Problems Solved
 
-```Administrative Problem,Student Problem
+```
+Administrative Problem,Student Problem
 Time Waste: Teachers spend ∼10 minutes per class marking attendance.,"Lack of Focus: Free periods result in unstructured, unproductive activities."
 Error-Prone Records: Manual registers lead to inaccuracies and difficulty in auditing.,Goal Misalignment: Idle time isn't tied to long-term academic or career objectives.
 ```
